@@ -1,0 +1,12 @@
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\bin\Debug\MMAudioProject.exe.config
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\bin\Debug\MMAudioProject.exe
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\bin\Debug\MMAudioProject.pdb
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\bin\Debug\NAudio.dll
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\bin\Debug\NAudio.xml
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\obj\Debug\MMAudioProject.csprojAssemblyReference.cache
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\obj\Debug\MMAudioProject.Form1.resources
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\obj\Debug\MMAudioProject.Properties.Resources.resources
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\obj\Debug\MMAudioProject.csproj.GenerateResource.cache
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\obj\Debug\MMAudioProject.csproj.CopyComplete
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\obj\Debug\MMAudioProject.exe
+D:\Projects\University\MM\MMAudioProject\MMAudioProject\obj\Debug\MMAudioProject.pdb
